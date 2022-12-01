@@ -1,6 +1,9 @@
 <h1> Olá, sou Diego! </h1>
 <a><h3>Atualmente estou cursando Sistemas de Informação e compartilho meus projetos aqui</h3></a>
 <br>
+
+
+
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?diegogodoy06&layout=compact&langs_count=7&theme=dark"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?diegogodoy06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <br>  <div align="center" dir="auto"> 
@@ -26,5 +29,7 @@
   
   <div align="center" dir="auto"> 
 <h2 dir="auto"></h2></div>
+
+
 ![Snake animation](https://github.com/diegogodoy06/diegogodoy06/blob/output/github-contribution-grid-snake.svg)
 <br><br>
