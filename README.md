@@ -2,10 +2,12 @@
 <a><h3>Atualmente estou cursando Sistemas de Informação e compartilho meus projetos aqui</h3></a>
 <br>
 
-
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?diegogodoy06&layout=compact&langs_count=7&theme=dark"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?diegogodoy06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
+<div>
+<a href="https://github.com/diegogodoy06">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogodoy06&layout=compact&langs_count=7&theme=dark"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegogodoy06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+  
+  
 <br>  <div align="center" dir="auto"> 
 <h2 dir="auto"></h2></div> <br>
 <a><h3>Ferramentas e Tecnologias</h3></a>
