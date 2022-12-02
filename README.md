@@ -1,14 +1,19 @@
-<h1> Olá, sou Diego! </h1>
-<a><h3>Atualmente estou cursando Sistemas de Informação e compartilho meus projetos aqui</h3></a>
+<div align="center" dir="auto"> 
+<h1>👋 Olá, sou Diego! </h1>
+</div>
+<a><h2>🤔 Sobre min</h2></a>
 <br>
+
+<a>Olá tenho 18 anos, e sou estudante do terceiro período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.</a>
 
 <div>
 <a href="https://github.com/diegogodoy06">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogodoy06&layout=compact&langs_count=7&theme=dark"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegogodoy06&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogodoy06&layout=compact&langs_count=7&theme=graywhite"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegogodoy06&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
   
+ 
   
-<br>  <div align="center" dir="auto"> 
+ <div align="center" dir="auto"> 
 <h2 dir="auto"></h2></div> <br>
 <a><h3>Ferramentas e Tecnologias</h3></a>
   
