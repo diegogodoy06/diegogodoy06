@@ -18,7 +18,7 @@
  
  <div align="center" dir="auto"> 
 <h2 dir="auto"></h2></div> 
-        <img align="right" alt="Diego-pic" height="200" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=f7bbef0e20516a62c09802edafcf662dcc393915&v=4" style="max-width: 100%; margin-top: 20px">
+        <img align="right" alt="Diego-pic" width="200" height="200" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=f7bbef0e20516a62c09802edafcf662dcc393915&v=4" style="max-width: 100%; margin-top:20px;">
 <a><h3>Ferramentas e Tecnologias</h3></a>
         
 <div>  
@@ -27,7 +27,7 @@
 <a><h3>Estou aprendendo</h3></a>
         <div>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="60" height="40"/></a> </div>
-<br>
+
 <div align="center" dir="auto"> 
 <h2 dir="auto"></h2>
   <a><h3>Contatos:</h3></a>
