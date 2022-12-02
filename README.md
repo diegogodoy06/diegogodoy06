@@ -17,15 +17,16 @@
   
  
  <div align="center" dir="auto"> 
-<h2 dir="auto"></h2></div> <br>
-        <img align="right" alt="Diego-pic" height="150" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=f7bbef0e20516a62c09802edafcf662dcc393915&v=4" style="max-width: 100%;">
+<h2 dir="auto"></h2></div> 
+        <img align="right" alt="Diego-pic" height="200" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=f7bbef0e20516a62c09802edafcf662dcc393915&v=4" style="max-width: 100%; margin-top: 20px">
 <a><h3>Ferramentas e Tecnologias</h3></a>
         
 <div>  
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="60" height="40"/></a><a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="40"/></a>
         </div>
-
-  
+<a><h3>Estou aprendendo</h3></a>
+        <div>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="60" height="40"/></a> </div>
 <br>
 <div align="center" dir="auto"> 
 <h2 dir="auto"></h2>
@@ -40,3 +41,4 @@
   <br>
 
 <hr>
+<br><br>
