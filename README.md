@@ -6,7 +6,7 @@
 
 
 <p align="left" dir="auto">
-        Olá tenho 18 anos, e sou estudante do terceiro período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
+        Olá tenho 18 anos, sou estudante no terceiro período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
     </p>
 
 
