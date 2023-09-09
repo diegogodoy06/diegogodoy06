@@ -18,7 +18,7 @@
 
  <div align="center" dir="auto"> 
 <h2 dir="auto"></h2></div> 
-        <img align="right" alt="Diego-pic" width="200" height="200" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=a982c97a530ac0f198121b258e2eb346d16a9d3a&v=4" style="max-width: 100%; margin-top:20px; border-radius: 20px">
+        <img align="right" alt="Diego-pic" width="200" height="200" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=a982c97a530ac0f198121b258e2eb346d16a9d3a&v=4" style="max-width: 100%; margin-top:20px;">
 <a><h3>Ferramentas e Tecnologias</h3></a>
         
 <div>  
