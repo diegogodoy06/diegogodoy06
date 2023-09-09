@@ -12,7 +12,7 @@
 
 <div>
 <a href="https://github.com/diegogodoy06">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogodoy06&layout=compact&langs_count=7&theme=graywhite"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegogodoy06&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://avatars.githubusercontent.com/u/85560773?s=400&u=a982c97a530ac0f198121b258e2eb346d16a9d3a&v=4"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegogodoy06&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 </div>
   
  
