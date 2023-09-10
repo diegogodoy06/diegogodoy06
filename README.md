@@ -6,7 +6,7 @@
 
 
 <p align="left" dir="auto">
-        Olá tenho 18 anos, sou estudante no quarto período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
+        Olá tenho 19 anos, sou estudante no quarto período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
     </p>
 
 
@@ -33,7 +33,6 @@
   <a><h3>Contatos:</h3></a>
 
 <div>
-<a href="https://instagram.com/diego.hemsworth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:diegoalex-gdy@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diego-godoy-201146259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
