@@ -26,7 +26,7 @@
  </div>
 <a><h3>Estou aprendendo</h3></a>
         <div>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="60" height="40"/></a> </div>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="40"/></a> <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="40"/></a> </div>
 
 <div align="center" dir="auto"> 
 <h2 dir="auto"></h2>
