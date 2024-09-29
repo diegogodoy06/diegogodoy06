@@ -10,11 +10,6 @@
     </p>
 
 
-<div>
-<a href="https://github.com/diegogodoy06">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegogodoy06&layout=compact&langs_count=7&theme=graywhite"/> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diegogodoy06&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-</div>
-  
 
  <div align="center" dir="auto"> 
 <h2 dir="auto"></h2></div> 
