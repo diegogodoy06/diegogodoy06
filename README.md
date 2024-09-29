@@ -6,7 +6,7 @@
 
 
 <p align="left" dir="auto">
-        Olá tenho 19 anos, sou estudante no quarto período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
+        Olá tenho 20 anos, sou estudante no quarto período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
     </p>
 
 
