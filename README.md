@@ -1,5 +1,5 @@
 <div align="center" dir="auto"> 
-<h1>👋 Olá, sou Diego! </h1>
+<h1>👋 Olá, sou Diego Godoy! </h1>
 </div>
 <a><h2>🤔 Sobre min</h2></a>
 <br>
