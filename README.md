@@ -1,13 +1,12 @@
 <div align="center" dir="auto"> 
 <h1>👋 Olá, sou Diego Godoy! </h1>
 </div>
-<a><h2>🤔 Sobre min</h2></a>
+<a><h2>Sobre min</h2></a>
 <br>
 
-
 <p align="left" dir="auto">
-        Olá tenho 20 anos, sou estudante no quarto período de Sistemas de Informação na Universidade do Oeste de São Paulo, aqui você encontrará os mais diversos tipos de projetos que estou desenvolvendo dutrante os estudos.
-    </p>
+    Olá! Tenho 21 anos, sou Analista de TI e atualmente estou no sétimo período do curso de Sistemas de Informação na Universidade do Oeste de São Paulo. Neste espaço, compartilho alguns dos projetos que venho desenvolvendo ao longo da minha formação e atuação profissional.
+</p>
 
 
 
