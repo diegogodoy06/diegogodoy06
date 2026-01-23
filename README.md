@@ -1,8 +1,7 @@
-<div align="center" dir="auto"> 
-<h1>👋 Olá, sou Diego Godoy! </h1>
+<div align="left" dir="auto"> 
+<h1>Prazer, sou Diego Godoy! </h1>
 </div>
-<a><h2>Sobre min</h2></a>
-<br>
+
 
 <p align="left" dir="auto">
     Olá! Tenho 21 anos, sou Analista de TI e atualmente estou no sétimo período do curso de Sistemas de Informação na Universidade do Oeste de São Paulo. Neste espaço, compartilho alguns dos projetos que venho desenvolvendo ao longo da minha formação e atuação profissional.
@@ -29,7 +28,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="50" height="40" />
           </a>
 
-<div align="center" dir="auto"> 
+<div align="left" dir="auto"> 
 <h2 dir="auto"></h2>
   <a><h3>Contatos:</h3></a>
 
