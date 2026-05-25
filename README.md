@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hi, I'm Diego Godoy
-    <a href="https://www.linkedin.com/in/diego-godoy-201146259/" target="_blank">
+    <a href="https://www.linkedin.com/in/diegosgodoy/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
     </a>
   </h1>
